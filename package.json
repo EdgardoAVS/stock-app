@@ -1,0 +1,17 @@
+{
+  "name": "stock-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon node app.js"
+  },
+  "author": "Edgardo Vargas <edgardoovargass@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
